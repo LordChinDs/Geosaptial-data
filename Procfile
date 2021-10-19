@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run Travelling_Data.py
+web: sh setup.sh && streamlit run test.py
